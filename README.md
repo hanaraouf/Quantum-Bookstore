@@ -62,10 +62,7 @@ The system is fully OOP and designed to support new book types in the future wit
 ---
 
 ## Sample Output
-Quantum book store: Test passed - Book with ISBN 123 already exists
-Quantum book store: Test passed - Outdated books removed
-Quantum book store: Shipping the paper book to123 Street
-Quantum book store: Test passed - Insufficient stock for book with ISBN 123
-Quantum book store: Sending the ebook to user@email.com
-Quantum book store: Test passed - Book with ISBN 202 is not for sale
-Quantum book store: All tests completed successfully
+<img width="638" alt="Screenshot 2025-07-08 at 9 45 39 PM" src="https://github.com/user-attachments/assets/0cb3a7bf-0d62-4450-9805-b8e05dcaceab" />
+
+
+
